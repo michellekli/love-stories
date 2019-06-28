@@ -4,13 +4,13 @@ This repo houses a two-notebook project on novels obtained from Project Gutenber
 
 # Results
 ## Multinomial Naive Bayes achieves 90.8% accuracy, which is ~40% higher than spectral clustering.
-![Multinomial Naive Bayes has the highest accuracy score of 90.8%.](https://github.com/michellekli/melbourne-housing/blob/master/plots/love-stories-part2-model-holdout.png)
+![Multinomial Naive Bayes has the highest accuracy score of 90.8%.](https://github.com/michellekli/love-stories/blob/master/plots/love-stories-part2-model-holdout.png)
 
 ## Spectral clustering correctly classifies some authors more than others.
-![Spectral clustering correctly classifies some authors more than others.](https://github.com/michellekli/melbourne-housing/blob/master/plots/love-stories-part2-author-stabilities.png)
+![Spectral clustering correctly classifies some authors more than others.](https://github.com/michellekli/love-stories/blob/master/plots/love-stories-part2-author-stabilities.png)
 
 ## Observations with higher prediction stability are more likely to be correctly classified.
-![Observations with higher prediction stability are more likely to be correctly classified.](https://github.com/michellekli/melbourne-housing/blob/master/plots/love-stories-part2-prediction-stabilities.png)
+![Observations with higher prediction stability are more likely to be correctly classified.](https://github.com/michellekli/love-stories/blob/master/plots/love-stories-part2-prediction-stabilities.png)
 
 # Data Set
 The data set consists of 10 novels downloaded from Project Gutenberg. They were all found within the first few pages of the ["Books about Love stories (sorted by popularity)"](https://www.gutenberg.org/ebooks/subject/2487) list.
