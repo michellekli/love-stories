@@ -1,3 +1,5 @@
+# Report
+[![Report.](https://github.com/michellekli/love-stories/blob/master/report-preview.png)](https://github.com/michellekli/love-stories/blob/master/Modeling%20versus%20Clustering%20for%20Text%20Classification.pdf)
 
 # Introduction
 This repo houses a two-notebook project on novels obtained from Project Gutenberg. In this project, I compare modeling and clustering for text classification and conclude that modeling is superior to clustering for this task. [Part 1](https://github.com/michellekli/love-stories/blob/master/love-stories-part1.ipynb) covers data cleaning. [Part 2](https://github.com/michellekli/love-stories/blob/master/love-stories-part2.ipynb) covers feature creation, model evaluation, and clustering evaluation.
